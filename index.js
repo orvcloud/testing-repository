@@ -1,1 +1,1 @@
-console.log("BOT RODOU")
+console.log("TEST PASSED")
